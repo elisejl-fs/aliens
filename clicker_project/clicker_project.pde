@@ -1,3 +1,5 @@
+//Elise Wong
+//1-1A
 //oct 6
 import ddf.minim.*;
 import ddf.minim.analysis.*;
